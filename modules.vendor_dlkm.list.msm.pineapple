@@ -115,7 +115,6 @@ msm_geni_serial.ko
 msm_gpi.ko
 msm_hw_fence.ko
 msm_kgsl.ko
-msm_lmh_dcvs.ko
 msm_memshare.ko
 msm-mmrm.ko
 msm_performance.ko
